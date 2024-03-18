@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "734ff1dca413dfd5cfc350f0fc77d89f",
+    "content-hash": "ac13c135a5fc98b44646162b550a8634",
     "packages": [
         {
             "name": "composer/installers",
@@ -1173,6 +1173,25 @@
             "homepage": "https://go.elementor.com/wp-dash-wp-plugins-author-uri/"
         },
         {
+            "name": "wenmark/gp-file-upload-pro",
+            "version": "1.3.14",
+            "dist": {
+                "type": "zip",
+                "url": "https://packages.wenmarkdigital.com/satispress/gp-file-upload-pro/1.3.14",
+                "shasum": "4c7f62e7ea684e1d1ba19433ab7ea99abd8f6219"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "authors": {
+                "name": "Gravity Wiz",
+                "homepage": "https://gravitywiz.com/"
+            },
+            "description": "A professional file and image uploader that feels like magic.",
+            "homepage": "https://gravitywiz.com/documentation/gravity-forms-file-upload-pro/"
+        },
+        {
             "name": "wenmark/gravityforms",
             "version": "2.8.5",
             "dist": {
@@ -1190,6 +1209,25 @@
             },
             "description": "Easily create web forms and manage form entries within the WordPress admin.",
             "homepage": "https://gravityforms.com"
+        },
+        {
+            "name": "wenmark/gravityperks",
+            "version": "2.3.6",
+            "dist": {
+                "type": "zip",
+                "url": "https://packages.wenmarkdigital.com/satispress/gravityperks/2.3.6",
+                "shasum": "eaa214b45726ba6a8b32395e994ca0458990e6a7"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "authors": {
+                "name": "Gravity Wiz",
+                "homepage": "https://gravitywiz.com/"
+            },
+            "description": "Effortlessly install and manage small functionality enhancements (aka \"perks\") for Gravity Forms.",
+            "homepage": "https://gravitywiz.com/"
         },
         {
             "name": "wenmark/ithemes-security-pro",
