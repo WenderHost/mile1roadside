@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5db2d5d079590fdff61b57704598ca10",
+    "content-hash": "ccaf42a7139089735ffd8a30e23238d7",
     "packages": [
         {
             "name": "composer/installers",
@@ -1155,6 +1155,25 @@
             "time": "2024-07-20T21:52:34+00:00"
         },
         {
+            "name": "wenmark/analyticswp",
+            "version": "1.9.6",
+            "dist": {
+                "type": "zip",
+                "url": "https://packages.wenmarkdigital.com/satispress/analyticswp/1.9.6",
+                "shasum": "5731eb77576391b38210283c5528037ea27ab43b"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "authors": {
+                "name": "Solid Plugins",
+                "homepage": "https://www.analyticswp.com/"
+            },
+            "description": "AnalyticsWP. Analytics for WordPress.",
+            "homepage": "https://www.analyticswp.com/"
+        },
+        {
             "name": "wenmark/elementor-pro",
             "version": "3.23.3",
             "dist": {
@@ -1248,6 +1267,24 @@
             },
             "description": "Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need for a solid foundation.",
             "homepage": "https://solidwp.com/security"
+        },
+        {
+            "name": "wpackagist-plugin/akismet",
+            "version": "5.3.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/akismet/",
+                "reference": "tags/5.3.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/akismet.5.3.3.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/akismet/"
         },
         {
             "name": "wpackagist-plugin/elementor",
