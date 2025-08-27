@@ -1272,11 +1272,11 @@
         },
         {
             "name": "wenmark/spellbook",
-            "version": "3.0.12",
+            "version": "3.0.13",
             "dist": {
                 "type": "zip",
-                "url": "https://packages.wenmarkdigital.com/satispress/spellbook/3.0.12",
-                "shasum": "9a1050f5df45c6057aa4107a045ac4d102f4078c"
+                "url": "https://packages.wenmarkdigital.com/satispress/spellbook/3.0.13",
+                "shasum": "3b7c8ad3946f1cfa0393e061a68e0fbe52dcede5"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
