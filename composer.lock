@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fee46a0cfaa780bf1c74a8306bed4032",
+    "content-hash": "633c77eb4fc6cb0a0c086638c5527b2b",
     "packages": [
         {
             "name": "composer/installers",
@@ -1241,27 +1241,6 @@
             "homepage": "https://gravityforms.com"
         },
         {
-            "name": "wenmark/gravityperks",
-            "version": "2.3.15",
-            "dist": {
-                "type": "zip",
-                "url": "https://packages.wenmarkdigital.com/satispress/gravityperks/2.3.15",
-                "shasum": "5ec17b0a3549540fb2091aa1bc1989d1887b5372"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "authors": [
-                {
-                    "name": "Gravity Wiz",
-                    "homepage": "https://gravitywiz.com/"
-                }
-            ],
-            "description": "Effortlessly enhance Gravity Forms with powerful add-ons (“perks”) for smarter, more flexible forms—all backed by legendary support.",
-            "homepage": "https://gravitywiz.com/"
-        },
-        {
             "name": "wenmark/ithemes-security-pro",
             "version": "8.5.3",
             "dist": {
@@ -1281,6 +1260,27 @@
             ],
             "description": "Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need for a solid foundation.",
             "homepage": "https://solidwp.com/security"
+        },
+        {
+            "name": "wenmark/spellbook",
+            "version": "3.0.12",
+            "dist": {
+                "type": "zip",
+                "url": "https://packages.wenmarkdigital.com/satispress/spellbook/3.0.12",
+                "shasum": "9a1050f5df45c6057aa4107a045ac4d102f4078c"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "authors": [
+                {
+                    "name": "Gravity Wiz",
+                    "homepage": "https://gravitywiz.com/"
+                }
+            ],
+            "description": "Spellbook will allow you to install and update all other Gravity Wiz plugins directly from your WordPress admin. It feels like magic. ✨",
+            "homepage": "https://gravitywiz.com/"
         },
         {
             "name": "wpackagist-plugin/akismet",
