@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ab56058f2a13865a870a9ec95723b09f",
+    "content-hash": "b383852f207c8781e4ccbbc9cda188f8",
     "packages": [
         {
             "name": "composer/installers",
@@ -1250,11 +1250,11 @@
         },
         {
             "name": "wenmark/ithemes-security-pro",
-            "version": "8.6.0",
+            "version": "9.0.4",
             "dist": {
                 "type": "zip",
-                "url": "https://packages.wenmarkdigital.com/satispress/ithemes-security-pro/8.6.0",
-                "shasum": "c87a1db62fd62d0a719e04ea405650660bc07b72"
+                "url": "https://packages.wenmarkdigital.com/satispress/ithemes-security-pro/9.0.4",
+                "shasum": "c7c44868b2ca9ad80c1aac8efe1b20ab7b266b71"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1262,11 +1262,11 @@
             "type": "wordpress-plugin",
             "authors": [
                 {
-                    "name": "SolidWP",
-                    "homepage": "https://solidwp.com"
+                    "name": "Kadence",
+                    "homepage": "https://kadencewp.com"
                 }
             ],
-            "description": "Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need for a solid foundation.",
+            "description": "Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need.",
             "homepage": "https://solidwp.com/security"
         },
         {
