@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "214b18750d99afcc8bca8961ad6ee41b",
+    "content-hash": "933be1f88b751155fcc5f817dee79754",
     "packages": [
         {
             "name": "composer/installers",
@@ -1367,15 +1367,15 @@
         },
         {
             "name": "wpackagist-plugin/host-analyticsjs-local",
-            "version": "4.8.7",
+            "version": "5.0.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/host-analyticsjs-local/",
-                "reference": "tags/4.8.7"
+                "reference": "tags/5.0.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/host-analyticsjs-local.4.8.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/host-analyticsjs-local.5.0.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
