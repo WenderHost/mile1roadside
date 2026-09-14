@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "933be1f88b751155fcc5f817dee79754",
+    "content-hash": "0bd36950c44526388e3ee73e17623569",
     "packages": [
         {
             "name": "composer/installers",
@@ -1268,27 +1268,6 @@
             ],
             "description": "Integrates Gravity Forms with Turnstile, a reCAPTCHA replacement from Cloudflare.",
             "homepage": "https://gravityforms.com"
-        },
-        {
-            "name": "wenmark/ithemes-security-pro",
-            "version": "9.0.5",
-            "dist": {
-                "type": "zip",
-                "url": "https://packages.wenmarkdigital.com/satispress/ithemes-security-pro/9.0.5",
-                "shasum": "80be7a68176c5f13b356a14f70fe21af5ca4b8ba"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "authors": [
-                {
-                    "name": "Kadence",
-                    "homepage": "https://kadencewp.com"
-                }
-            ],
-            "description": "Shield your site from cyberattacks and prevent security vulnerabilities. The only security plugin you need.",
-            "homepage": "https://solidwp.com/security"
         },
         {
             "name": "wenmark/spellbook",

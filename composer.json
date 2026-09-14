@@ -63,7 +63,6 @@
     "wpackagist-plugin/akismet": "^5.3",
     "wenmark/spellbook": "^3.0",
     "wpackagist-plugin/smtp2go": "^1.14",
-    "wenmark/ithemes-security-pro": "^9.0",
     "wenmark/gravityformsturnstile": "^1.5"
   },
   "require-dev": {
